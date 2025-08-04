@@ -19,5 +19,6 @@ fx_version "cerulean"
 -- Prompt Mods (https://store.prompt-mods.com/) by 1amZach
 -- locations "prompt_mods/sandy_shores_fire_department.lua"
 -- locations "prompt_mods/paleto_bay_fire_department.lua"
+-- locations "prompt_mods/vespucci_fire_department.lua"
 
 dependency "inferno-station-alert"
