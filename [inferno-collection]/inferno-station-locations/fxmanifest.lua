@@ -16,6 +16,7 @@ game "gta5"
 
 fx_version "cerulean"
 
---locations  "file_name_here.lua"
+-- Prompt Mods (https://store.prompt-mods.com/) by 1amZach
+-- locations "prompt_mods/sandy_shores_fire_department.lua"
 
 dependency "inferno-station-alert"
