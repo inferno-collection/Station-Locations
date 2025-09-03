@@ -21,4 +21,7 @@ fx_version "cerulean"
 -- locations "prompt_mods/paleto_bay_fire_department.lua"
 -- locations "prompt_mods/vespucci_fire_department.lua"
 
+-- Map4All (https://fivem.map4all-shop.com/) by 1amZach
+-- locations "map_4_all/sandy_fire_department.lua"
+
 dependency "inferno-station-alert"
